@@ -1,0 +1,72 @@
+﻿@page
+@model Lab_1.Pages.IndexModel
+@{
+    ViewData["Title"] = "Cookie Monster Tracker";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Cookie Monster Theme */
+        body {
+            background-color: #f0f8ff; /* light blue */
+            font-family: 'Segoe UI', sans-serif;
+            color: #000;
+            text-align: center;
+            padding-top: 50px;
+        }
+
+        /* Style for the Cookie Monster image */
+        .cookie-monster-img {
+            width: 250px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        /* Style for the main heading */
+        h1 {
+            color: #1e90ff; /* blue */
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        /* Style for the cookie count text */
+        .yum {
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+
+        /* Style for the "Eat a cookie" button */
+        .cookie-btn {
+            background-color: #1e90ff;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+            /* Darker blue on hover */
+            .cookie-btn:hover {
+                background-color: #104e8b;
+            }
+    </style>
+</head>
+<body>
+    <!-- Cookie Monster image -->
+    <img src="/images/cookie_monster.png" alt="Cookie Monster" class="cookie-monster-img" />
+
+    <!-- Main heading -->
+    <h1>Cookie Monster 🍪</h1>
+
+    <!-- Display the number of cookies eaten -->
+    <p class="yum">@Model.CookieCount cookies, yum yum!</p>
+
+    <!-- Form with a POST button to trigger the cookie count update -->
+    <form method="post">
+        <button class="cookie-btn">Eat a cookie</button>
+    </form>
+</body>
+</html>
