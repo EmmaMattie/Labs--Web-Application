@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Lab_1.csproj": {}
+    "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Lab_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Lab_1.csproj": {
+    "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Lab_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Lab_1.csproj",
+        "projectUniqueName": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Lab_1.csproj",
         "projectName": "Lab_1",
-        "projectPath": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Lab_1.csproj",
+        "projectPath": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Lab_1.csproj",
         "packagesPath": "C:\\Users\\emmam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\obj\\",
+        "outputPath": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

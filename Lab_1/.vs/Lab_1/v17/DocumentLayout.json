@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\",
+  "WorkspaceRootPath": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\web app\\lab_1\\lab_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\web app\\lab_1\\lab_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\web app\\lab_1\\lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab_1\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Lab_1\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Lab_1\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Lab_1\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T22:20:14.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T22:20:14.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab_1\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\emmam\\Desktop\\Web App\\Lab_1\\Lab_1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml",
               "RelativeToolTip": "Lab_1\\Pages\\Index.cshtml",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T22:19:48.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T22:19:48.087Z"
             }
           ]
         }
