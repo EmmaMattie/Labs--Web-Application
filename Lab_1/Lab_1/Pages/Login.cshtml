@@ -1,0 +1,23 @@
+﻿@page
+@model Lab_1.Pages.LoginModel
+@{
+    ViewData["Title"] = "Lab 2 Login";
+}
+
+<div style="text-align: center; padding: 80px; font-family: 'Segoe UI', sans-serif;">
+    @if (Model.Greeting != null)
+    {
+        <h2>@Model.Greeting</h2>
+    }
+    else
+    {
+        <div style="background: #f0f8ff; padding: 30px; width: 320px; margin: auto; border-radius: 12px;">
+            <h3>Login</h3>
+            <form method="post">
+                <input type="text" name="Username" placeholder="Username" style="margin: 10px; padding: 10px; width: 90%;" /><br />
+                <input type="password" name="Password" placeholder="Password" style="margin: 10px; padding: 10px; width: 90%;" /><br />
+                <button type="submit" class="btn btn-primary">Log In</button>
+            </form>
+        </div>
+    }
+</div>

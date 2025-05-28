@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|c:\\users\\emmam\\desktop\\labs--web-application\\lab_1\\lab_1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB7D5043-3023-4C76-902F-669C31F70154}|Lab_1\\Lab_1.csproj|solutionrelative:lab_1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +58,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Lab_1\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:49:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Lab_1\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:49:34.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Lab_1\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:43:37.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Lab_1\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:42:22.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Lab_1\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:36:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Lab_1\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:35:59.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab_1\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:35:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab_1\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab_1\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:35:42.991Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Program.cs",
+              "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Program.cs",
+              "RelativeToolTip": "Lab_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:34:25.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab_1\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Lab_1\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-22T03:57:03.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Lab_1\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Lab_1\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T22:20:14.924Z"
+              "WhenOpened": "2025-05-21T22:20:14.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab_1\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\emmam\\Desktop\\Labs--Web-Application\\Lab_1\\Lab_1\\Pages\\Index.cshtml",
               "RelativeToolTip": "Lab_1\\Pages\\Index.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T22:19:48.087Z"
+              "WhenOpened": "2025-05-21T22:19:48.087Z",
+              "EditorCaption": ""
             }
           ]
         }
