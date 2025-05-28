@@ -1,0 +1,79 @@
+﻿@page
+@model Lab_3.Pages.IndexModel
+@{
+    ViewData["Title"] = "File Upload";
+}
+
+<style>
+    body {
+        background-color: #f5f8fa;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .upload-container {
+        max-width: 450px;
+        margin: 100px auto;
+        padding: 30px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    .upload-title {
+        font-size: 24px;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .file-input {
+        margin-bottom: 20px;
+    }
+
+    .upload-button {
+        padding: 10px 25px;
+        background-color: #007acc;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+
+        .upload-button:hover {
+            background-color: #005fa3;
+        }
+
+    .file-info {
+        margin-top: 30px;
+        font-size: 16px;
+    }
+
+    .preview-img {
+        margin-top: 20px;
+        max-width: 100%;
+        border-radius: 8px;
+    }
+</style>
+
+<div class="upload-container">
+    <div class="upload-title">📁 Upload a File</div>
+
+    <form method="post" enctype="multipart/form-data">
+        <input class="file-input" type="file" name="UploadedFile" />
+        <br />
+        <button class="upload-button" type="submit">Upload</button>
+    </form>
+
+    @if (Model.FileName != null)
+    {
+        <div class="file-info">
+            <p><strong>File Name:</strong> @Model.FileName</p>
+            <p><strong>File Size:</strong> @Model.FileSize bytes</p>
+        </div>
+
+        @if (Model.IsImage)
+        {
+            <img src="/UploadedFiles/@Model.FileName" alt="Uploaded Image" class="preview-img" />
+        }
+    }
+</div>
